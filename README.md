@@ -1,10 +1,6 @@
 # #ELASTECH PAGSEGURO / GAMA Academy
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
-
 ## 🚀 Sobre o Programa 👩‍💻
-# ElasTech
+### ElasTech
  é uma iniciativa do PagBank PagSeguro (em parceria com a Gama Academy) para atrair e capacitar
  mulheres apaixonadas por tecnologia.  Nessa formação, #Elas aprenderão:
 - programação back-end
